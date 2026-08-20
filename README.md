@@ -29,8 +29,10 @@ Geriye değer döndüren ve geriye değer döndürmeyen metotların farkını ö
 SQL Server ile C# arasında bağlantı kurarak DataTable yardımıyla verileri listeleme işlemini gerçekleştirdim.
 ## 📍Proje 10: ADO.NET ile SQL CRUD Operasyonları
 Veritabanı Insert işlemlerini, SQL parametrelerinin kullanımını öğrendim ve temel CRUD operasyonlarını tamamladım.
-## 📍Proje 11:
-
+## 📍Proje 11: N-Katmanlı Mimari (Entity Layer ve Sınıflar)
+C# ile N-Katmanlı Mimari (N-Tier Architecture) yapısına giriş yaptım. 
+EntityLayer katmanını oluşturarak Customer, Category, Product ve Order sınıflarını (property'leriyle birlikte) tasarladım.
+## 📍Proje 12: 
 
 
 
