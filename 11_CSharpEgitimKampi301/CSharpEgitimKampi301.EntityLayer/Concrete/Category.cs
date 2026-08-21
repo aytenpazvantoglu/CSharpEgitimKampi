@@ -16,6 +16,12 @@ namespace CSharpEgitimKampi301.EntityLayer.Concrete
 
         public bool CategoryStatus { get; set; }
 
+        // İlişkiler:
+        // Bir kategoride birden fazla ürün olabilir.
+        // Bu nedenle ürünlerimizi çoğul ekledik (products)
+        // Bire-Çok İlişki -> Örneğin kola bir içecek çeşididir ancak birden fazla içecek çeşitleri vardır.
+        public List<Product> Products { get; set; }
+
 
 
     }
